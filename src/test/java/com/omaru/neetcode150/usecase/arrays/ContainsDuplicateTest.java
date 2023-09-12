@@ -1,4 +1,4 @@
-package usecase.arrays;
+package com.omaru.neetcode150.usecase.arrays;
 
 import com.omaru.neetcode150.usecase.UseCase;
 import com.omaru.neetcode150.usecase.arrays.ContainsDuplicate;
