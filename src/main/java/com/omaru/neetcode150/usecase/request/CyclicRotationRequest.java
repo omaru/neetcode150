@@ -1,4 +1,4 @@
-package com.omaru.neetcode150.usecase.arrays.request;
+package com.omaru.neetcode150.usecase.request;
 
 import lombok.Builder;
 import lombok.Getter;

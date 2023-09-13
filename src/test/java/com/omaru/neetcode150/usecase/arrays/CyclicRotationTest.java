@@ -1,7 +1,7 @@
 package com.omaru.neetcode150.usecase.arrays;
 
 import com.omaru.neetcode150.usecase.UseCase;
-import com.omaru.neetcode150.usecase.arrays.request.CyclicRotationRequest;
+import com.omaru.neetcode150.usecase.request.CyclicRotationRequest;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
